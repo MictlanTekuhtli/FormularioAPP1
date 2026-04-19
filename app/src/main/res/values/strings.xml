@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Formulario App</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellidos">Apellidos</string>
+
+    <string name="hint_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="error_fecha_obligatoria">Selecciona tu fecha de nacimiento</string>
+    <string name="error_edad_minima">Debes tener al menos 13 años para registrarte</string>
+    <string name="error_fecha_invalida">Fecha inválida</string>
+
+    <string name="hint_genero">Genero</string>
+    <string name="error_genero">Selecciona un género</string>
+    <string name="genero_masculino">Masculino</string>
+    <string name="genero_femenino">Femenino</string>
+    <string name="genero_no">No Binario</string>
+
+    <string name="hint_email">Correo electrónico</string>
+    <string name="error_email_obligatorio">Ingresa tu correo electrónico</string>
+    <string name="error_email_invalido">Formato de correo inválido</string>
+
+    <string name="hint_descrip">Descripción pública</string>
+
+    <string name="error_campo">Este campo es obligatorio</string>
+
+    <string name="hint_telefono">Numero Telefonico</string>
+    <string name="error_telefono_invalido">Debe tener 10 dígitos</string>
+
+    <string name="hint_Intereses">Intereses personales</string>
+    <string name="label_intereses">Intereses personales</string>
+    <string name="interes_musica">Música</string>
+    <string name="interes_deporte">Deporte</string>
+    <string name="interes_lectura">Lectura</string>
+    <string name="interes_tecnologia">Tecnología</string>
+    <string name="interes_viajes">Viajes</string>
+
+    <string name="btn_crear_perfil">Crear perfil</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="foto_perfil_desc">Foto de perfil</string>
+    <string name="seleccionar_foto">Seleccionar foto</string>
+    <string name="permiso_galeria_racional">Necesitamos acceso a tus fotos para establecer una imagen de perfil.</string>
+    <string name="permiso_denegado">Permiso denegado. No se puede seleccionar imagen.</string>
+
+    <string name="seccion_datos_personales">Datos Personales</string>
+    <string name="b_volver">Regresar</string>
+
+    <string name="error_perfil_no_encontrado">Perfil no encontrado</string>
+    <string name="ninguno">Ninguno</string>
+
+
+</resources>

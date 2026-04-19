@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Form</string>
+    <string name="hint_nombre">Name</string>
+    <string name="hint_fecha_nacimiento">Date of birth</string>
+    <string name="error_fecha_invalida">Invalid date</string>
+    <string name="hint_genero">Gender</string>
+    <string name="hint_apellidos">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_Intereses">Personal interests</string>
+    <string name="error_email_invalido">Invalid email format</string>
+    <string name="hint_descrip">Public bio</string>
+    <string name="error_genero">Select a gender</string>
+    <string name="genero_masculino">Male</string>
+    <string name="genero_femenino">Female</string>
+    <string name="genero_no">Non-binary</string>
+    <string name="error_campo">This field is required</string>
+    <string name="hint_telefono">Phone number</string>
+    <string name="error_telefono_invalido">Must be 10 digits</string>
+
+    <string name="label_intereses">Personal interests</string>
+    <string name="interes_musica">Music</string>
+    <string name="interes_deporte">Sports</string>
+    <string name="interes_lectura">Reading</string>
+    <string name="interes_tecnologia">Technology</string>
+    <string name="interes_viajes">Travel</string>
+    <string name="error_fecha_obligatoria">Select your date of birth</string>
+    <string name="error_edad_minima">You must be at least 13 years old to registe</string>
+    <string name="error_email_obligatorio">Enter your email</string>
+    <string name="btn_crear_perfil">Create profile</string>
+    <string name="Siguiente">Next</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="foto_perfil_desc">Profile picture</string>
+    <string name="seleccionar_foto">Select photo</string>
+    <string name="permiso_galeria_racional">We need access to your photos to set a profile picture.</string>
+    <string name="permiso_denegado">Permission denied. Cannot select image.</string>
+    <string name="seccion_datos_personales">Personal date</string>
+    <string name="b_volver">Back</string>
+    <string name="error_perfil_no_encontrado">Profile not found</string>
+    <string name="ninguno">None</string>
+</resources>

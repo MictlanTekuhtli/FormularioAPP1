@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary_Yellow">#FFC107</color>
+    <color name="Secondary_Cyan">#03A9F4</color>
+    <color name="Tertiary_Orange">#FF5722</color>
+    <color name="Neutral_Gray">#757575</color>
+</resources>
