@@ -78,4 +78,4 @@ Para mejorar la experiencia de usuario y la calidad del proyecto, se agregaron l
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/MictlanTKL/FormularioPerfilAndroid.git
+   gh repo clone MictlanTekuhtli/FormularioAPP1
